@@ -1,0 +1,20 @@
+Report: 1, 
+Conference title in Ukrainian 'BIM-моделювання', 
+Conference title in English 'BIM BIM-modeling', 
+Date and time 2019-03-10T10:00, 
+Provided lectures amount 1, 
+Registered participants amount 3, 
+Actual participants amount 3
+Report: 1, 
+Conference title in Ukrainian 'Природоохоронні території України', 
+Conference title in English 'Protected areas of Ukraine', 
+Date and time 2019-04-12T15:00, 
+Provided lectures amount 3, 
+Registered participants amount 0, 
+Actual participants amount 0
+Report: 1, 
+Conference title in Ukrainian 'Природоохоронні території України', 
+Conference title in English 'Protected areas of Ukraine', 
+Date and time 2019-04-12T15:00, 
+Provided lectures amount 3, 
+Actual participants amount 3
